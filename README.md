@@ -1301,7 +1301,7 @@ _Related: [Automation](#automation), [Media Streaming](#media-streaming), [Media
 - [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 - [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
 - [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
-
+- [Edit Mind](https://github.com/iliashad/edit-mind) - Local-first video knowledge base. `Custom` `Docker`
 
 ### Media Streaming
 
